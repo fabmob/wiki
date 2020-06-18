@@ -1,6 +1,6 @@
 # Introduction au Wiki fabmob
 
-Le Wiki tourne sur la plateforme MediaWiki, celle qui fait tourner Wikipedia.
+Le Wiki est basé sur la plateforme MediaWiki, celle qui a été créée pour et fait tourner Wikipedia.
 
 ## Principe du Wiki
 
