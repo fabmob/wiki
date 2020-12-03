@@ -48,7 +48,7 @@ L'objectif est de l'utiliser au minimum et de se resynchroniser avec thème stan
 
 ### L'apparence des pages de contenu
 
-Il est défini notamment dans [Common.css](https://wiki.lafabriquedesmobilites.fr/MediaWiki:Commons.css) qu'on peut modifier directement sur le Wiki en cliquant sur "Modifier le Wikicode".
+Il est défini notamment dans [Common.css](https://wiki.lafabriquedesmobilites.fr/wiki/MediaWiki:Common.css) qu'on peut modifier directement sur le Wiki en cliquant sur "Modifier le Wikicode".
 
 Ensuite, on peut modifier l'affichage des catégories de pages (appelés `Modèles`) en manipulant directement le HTML qui sera affiché à l'utilisateur, par exemple les pages de catégorie "Commun" dans le modèle "Ressources" (oui, il faut le savoir ^^) [ici](https://wiki.lafabriquedesmobilites.fr/wiki/Mod%C3%A8le:Ressource). 
 
